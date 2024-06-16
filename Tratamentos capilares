@@ -38,17 +38,17 @@ Somos uma empressa especialidade em tratamentos capilares.
         <section id="highlights">
             <h2>Serviços em Destaque</h2>
             <div class="service">
-                <img src="service1.jpg" alt="Serviço 1">
+                <img src="service1.jpg" alt="Mesoterapia capilar">
                 <h3>Tratamento A</h3>
                 <p>Descrição breve do Tratamento A.</p>
             </div>
             <div class="service">
-                <img src="service2.jpg" alt="Serviço 2">
+                <img src="service2.jpg" alt="Microagulhamento capilar">
                 <h3>Tratamento B</h3>
                 <p>Descrição breve do Tratamento B.</p>
             </div>
             <div class="service">
-                <img src="service3.jpg" alt="Serviço 3">
+                <img src="service3.jpg" alt="Lase de baixa potência">
                 <h3>Tratamento C</h3>
                 <p>Descrição breve do Tratamento C.</p>
             </div>
